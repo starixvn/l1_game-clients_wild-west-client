@@ -187,7 +187,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 483.86333333333334,
+    "_orthoHeight": 393,
     "_near": 0,
     "_far": 1000,
     "_color": {
@@ -3451,7 +3451,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 618.7456665039062,
+      "width": 502.69573974609375,
       "height": 41.8
     },
     "_anchorPoint": {
@@ -3481,7 +3481,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "BIỂU TƯỢNG ĐƯỢC TÍNH THẮNG NẰM Ở VỊ TRÍ BẤT KỲ",
+    "_string": "SYMBOLS PAY ANYWHERE ON THE SCREEN",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 22,
@@ -11564,7 +11564,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 82.98594665527344,
+      "width": 48.06298828125,
       "height": 81.6
     },
     "_anchorPoint": {
@@ -11594,7 +11594,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "THẮNG",
+    "_string": "WIN",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 21,
@@ -11765,7 +11765,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 106.35894775390625,
+      "width": 125.30091857910156,
       "height": 81.6
     },
     "_anchorPoint": {
@@ -11795,7 +11795,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "TỰ QUAY",
+    "_string": "AUTO SPIN",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 21,
@@ -11966,7 +11966,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 109.15193176269531,
+      "width": 157.34693908691406,
       "height": 81.6
     },
     "_anchorPoint": {
@@ -11996,7 +11996,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "SIÊU TỐC",
+    "_string": "TURBO MODE",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 21,
@@ -12283,7 +12283,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 140.56793212890625,
+      "width": 127.12789916992188,
       "height": 41.28
     }
   },
@@ -12303,7 +12303,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 228.51388549804688,
+      "width": 280.2018737792969,
       "height": 50.4
     }
   },
@@ -12324,7 +12324,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 110.73991394042969,
+      "width": 126.95993041992188,
       "height": 50.4
     }
   },
@@ -12345,7 +12345,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 120.55992126464844,
+      "width": 113.59992980957031,
       "height": 50.4
     }
   },
@@ -12366,7 +12366,7 @@
     ],
     "value": {
       "__type__": "cc.Size",
-      "width": 128.159912109375,
+      "width": 115.35990905761719,
       "height": 50.4
     }
   },
