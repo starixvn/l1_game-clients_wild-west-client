@@ -1,0 +1,7 @@
+{
+    "mainNamespace": "WildWestMostWanted",
+    "additionalNamespaces": [
+        "Common",
+        "cascadingslot"
+    ]
+}

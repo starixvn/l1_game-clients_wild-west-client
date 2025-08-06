@@ -1,22 +1,26 @@
 {
-    "lobbyNames": {
-        "en": "Wild West\nMost Wanted",
-        "id": "Wild West\nMost Wanted",
-        "th": "ไวลด์ เวสต์\nมอสท์ ว้อนท์เต็ด",
-        "vi": "Tay Súng\nCừ Khôi",
-        "zh_cn": "狂野西部牛仔",
-        "zh_tw": "狂野西部牛仔",
-        "ja": "Wild West\nMost Wanted",
-        "es": "Wild West\nMost Wanted"
-    },
-    "gameNames": {
-        "en": "Wild West Most Wanted",
-        "id": "Wild West Most Wanted",
-        "th": "ไวลด์ เวสต์ มอสท์ ว้อนท์เต็ด",
-        "vi": "Tay Súng Cừ Khôi",
-        "zh_cn": "狂野西部牛仔",
-        "zh_tw": "狂野西部牛仔",
-        "ja": "Wild West Most Wanted",
-        "es": "Wild West Most Wanted"
-    }
+  "lobbyNames": {
+    "en": "Wild West\nMost Wanted",
+    "es": "Wild West\nMost Wanted",
+    "fil_ph": "Wild West\nMost Wanted",
+    "id": "Wild West\nMost Wanted",
+    "ja": "Wild West\nMost Wanted",
+    "th": "ไวลด์ เวสต์\nมอสท์ ว้อนท์เต็ด",
+    "tr": "Wild West\nMost Wanted",
+    "vi": "Tay Súng\nCừ Khôi",
+    "zh_cn": "狂野西部牛仔",
+    "zh_tw": "狂野西部牛仔"
+  },
+  "gameNames": {
+    "en": "Wild West Most Wanted",
+    "es": "Wild West Most Wanted",
+    "fil_ph": "Wild West Most Wanted",
+    "id": "Wild West Most Wanted",
+    "ja": "Wild West Most Wanted",
+    "th": "ไวลด์ เวสต์ มอสท์ ว้อนท์เต็ด",
+    "tr": "Wild West Most Wanted",
+    "vi": "Tay Súng Cừ Khôi",
+    "zh_cn": "狂野西部牛仔",
+    "zh_tw": "狂野西部牛仔"
+  }
 }
