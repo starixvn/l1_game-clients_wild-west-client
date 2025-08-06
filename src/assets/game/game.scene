@@ -1884,6 +1884,8 @@
     "previewPopup": {
       "__id__": 55
     },
+    "peekEffectOverlay": null,
+    "peekEffectContainer": null,
     "_id": "3cAZurbmtFmqCE2zk2lC/4"
   },
   {
@@ -2006,10 +2008,6 @@
     "prfPreviewSymbolRight": {
       "__uuid__": "1d83cf27-ee4c-4e9c-b5a5-88ec443246b7",
       "__expectedType__": "cc.Prefab"
-    },
-    "colorInfo": {
-      "__uuid__": "16a16ff8-6eab-4042-860b-fd558b7725db",
-      "__expectedType__": "cc.JsonAsset"
     },
     "_id": "cct9UFpMxB8pzffvUuQKhf"
   },
@@ -4626,10 +4624,6 @@
     "mainAtlas": {
       "__uuid__": "cab245b3-fac5-4aa6-bb02-f370c663806f",
       "__expectedType__": "cc.SpriteAtlas"
-    },
-    "colorInfo": {
-      "__uuid__": "16a16ff8-6eab-4042-860b-fd558b7725db",
-      "__expectedType__": "cc.JsonAsset"
     },
     "_id": "35j3gju1FDC4aYn+xG/MY6"
   },
@@ -12304,7 +12298,7 @@
     "value": {
       "__type__": "cc.Size",
       "width": 280.2018737792969,
-      "height": 50.4
+      "height": 35.28
     }
   },
   {
@@ -12457,10 +12451,6 @@
     "__prefab": null,
     "totalWinLabel": {
       "__id__": 385
-    },
-    "colorInfo": {
-      "__uuid__": "16a16ff8-6eab-4042-860b-fd558b7725db",
-      "__expectedType__": "cc.JsonAsset"
     },
     "_id": "d9zqprgBxOrZZWf8sh5j+G"
   },
@@ -13293,6 +13283,10 @@
     },
     "colorInfo": {
       "__uuid__": "16a16ff8-6eab-4042-860b-fd558b7725db",
+      "__expectedType__": "cc.JsonAsset"
+    },
+    "gameFeatureInfo": {
+      "__uuid__": "5f4849f3-ae3e-4ff1-a0e5-18c01ece03dc",
       "__expectedType__": "cc.JsonAsset"
     },
     "_id": "bfCE14RxZL6LZVArIJvupB"
