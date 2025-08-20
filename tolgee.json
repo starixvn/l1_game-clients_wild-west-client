@@ -1,7 +1,4 @@
 {
     "mainNamespace": "WildWestMostWanted",
-    "additionalNamespaces": [
-        "Common",
-        "cascadingslot"
-    ]
+    "additionalNamespaces": ["Common", "cascadingslot", "FreeSpinBonus"]
 }
